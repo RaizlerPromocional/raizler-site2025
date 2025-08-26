@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ímãs Promocionais Personalizados | Raizler Brindes</title>
+  <meta name="description" content="Ímãs promocionais personalizados para campanhas e ações institucionais. Escolha entre diversos modelos: geladeira, calendário, cardápio, colecionáveis e muito mais.">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <script src="../assets/js/script.js" defer></script>
+
+  <!-- SEO JSON-LD Categoria -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Ímãs Promocionais",
+    "description": "Categoria de ímãs promocionais personalizados para campanhas, feiras e empresas.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Raizler Brindes",
+      "url": "https://www.raizler.com.br"
+    }
+  }
+  </script>
+</head>
+<body>
+  <!-- HEADER GLOBAL -->
+  <header>
+    <div class="container">
+      <a href="../index.html" class="logo">Raizler</a>
+      <nav class="menu">
+        <!-- mesmo menu que já existe no index -->
+      </nav>
+    </div>
+  </header>
+
+  <main class="categoria-page container">
+    <!-- Hero / Intro -->
+    <section class="categoria-hero">
+      <h1>Ímãs Promocionais</h1>
+      <p>
+        Os <strong>ímãs promocionais personalizados</strong> são uma forma criativa e eficaz de divulgar sua marca. 
+        Eles permanecem à vista do cliente no dia a dia, seja na geladeira, mural ou escritório, garantindo 
+        lembrança constante da sua empresa. 
+      </p>
+      <a href="../orcamento.html" class="btn cta">Solicitar Orçamento</a>
+    </section>
+
+    <!-- Lista de Produtos -->
+    <section class="categoria-grid">
+      <h2>Nossos modelos de Ímãs</h2>
+      <div class="grid-produtos">
+        <a href="../produto/ima-geladeira.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-geladeira.jpg" alt="Ímã de Geladeira">
+          <h3>Ímã de Geladeira</h3>
+        </a>
+        <a href="../produto/ima-calendario.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-calendario.jpg" alt="Super Ímã com Calendário">
+          <h3>Super Ímã com Calendário</h3>
+        </a>
+        <a href="../produto/ima-box.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-box.jpg" alt="Ímã Box">
+          <h3>Ímã Box</h3>
+        </a>
+        <a href="../produto/ima-brilha.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-brilha.jpg" alt="Ímã que Brilha no Escuro">
+          <h3>Ímã que Brilha no Escuro</h3>
+        </a>
+        <a href="../produto/ima-cardapio.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-cardapio.jpg" alt="Ímã com Cardápio">
+          <h3>Ímã com Cardápio</h3>
+        </a>
+        <a href="../produto/ima-cartela.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-cartela.jpg" alt="Ímã com Cartela">
+          <h3>Ímã com Cartela</h3>
+        </a>
+        <a href="../produto/ima-clip.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-clip.jpg" alt="Ímã Clip">
+          <h3>Ímã Clip</h3>
+        </a>
+        <a href="../produto/ima-bloco.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-bloco.jpg" alt="Ímã com Bloco de Anotações">
+          <h3>Ímã com Bloco de Anotações</h3>
+        </a>
+        <a href="../produto/ima-bloco-calendario.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-bloco-calendario.jpg" alt="Ímã com Bloco Calendário">
+          <h3>Ímã com Bloco Calendário</h3>
+        </a>
+        <a href="../produto/ima-cupom.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-cupom.jpg" alt="Ímã com Cupom">
+          <h3>Ímã com Cupom</h3>
+        </a>
+        <a href="../produto/ima-memo-board.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-memo-board.jpg" alt="Ímã Lousa Magnética Memo Board">
+          <h3>Ímã Lousa Magnética Memo Board</h3>
+        </a>
+        <a href="../produto/ima-memo-paper.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-memo-paper.jpg" alt="Ímã Memo Paper">
+          <h3>Ímã Memo Paper</h3>
+        </a>
+        <a href="../produto/ima-blackboard.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-blackboard.jpg" alt="Ímã Lousa Magnética Blackboard">
+          <h3>Ímã Lousa Magnética Blackboard</h3>
+        </a>
+        <a href="../produto/ima-mural.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-mural.jpg" alt="Ímã Mural">
+          <h3>Ímã Mural</h3>
+        </a>
+        <a href="../produto/ima-carro.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-carro.jpg" alt="Ímã para Carro">
+          <h3>Ímã para Carro</h3>
+        </a>
+        <a href="../produto/ima-frases.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-frases.jpg" alt="Ímã com Frases">
+          <h3>Ímã com Frases</h3>
+        </a>
+        <a href="../produto/porta-copos.html" class="produto-card">
+          <img src="../assets/img/produtos/porta-copos.jpg" alt="Porta-Copos com Ímã">
+          <h3>Porta-Copos com Ímã</h3>
+        </a>
+        <a href="../produto/ima-porta-retratos.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-porta-retratos.jpg" alt="Ímã Porta-Retratos">
+          <h3>Ímã Porta-Retratos</h3>
+        </a>
+        <a href="../produto/ima-qrcode.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-qrcode.jpg" alt="Ímã com QR Code">
+          <h3>Ímã com QR Code</h3>
+        </a>
+        <a href="../produto/ima-colecionaveis.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-colecionaveis.jpg" alt="Ímãs Colecionáveis">
+          <h3>Ímãs Colecionáveis</h3>
+        </a>
+        <a href="../produto/ima-para-escrever.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-para-escrever.jpg" alt="Ímã para Escrever">
+          <h3>Ímã para Escrever</h3>
+        </a>
+        <a href="../produto/ima-raspadinha.html" class="produto-card">
+          <img src="../assets/img/produtos/ima-raspadinha.jpg" alt="Ímã Raspadinha">
+          <h3>Ímã Raspadinha</h3>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER GLOBAL -->
+  <footer>
+    <div class="container">
+      <p>© 2025 Raizler Brindes - Todos os direitos reservados.</p>
+    </div>
+  </footer>
+</body>
+</html>
